@@ -32,7 +32,7 @@ Generate multiple versions of the same prompt with slight variations to compare 
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
 # Prompt:
-"Create a 10-second cinematic video of a man waking up in a futuristic cyberpunk-inspired city. The scene begins with the man slowly opening his eyes in a minimalistic, neon-lit bedroom. He gets up and walks toward a massive floor-to-ceiling window. As he reaches the window, reveal a sprawling futuristic megacity with towering skyscrapers, glowing holograms, flying cars zipping through multi-layered sky highways, and a blend of blue, purple, and neon pink lighting. Add subtle atmospheric fog, reflections on the glass, and dynamic motion from the flying vehicles. The tone should be immersive, high-tech, and visually rich with cyberpunk elements. Realistic lighting, smooth camera movement, and a dramatic reveal of the cityscape."
+"Create a 10-second cinematic video of a man waking up in a futuristic cyberpunk-inspired city. The scene begins with the man sleeping in neon-lit bedroom.  reveal a sprawling futuristic megacity with towering skyscrapers, glowing holograms, flying cars zipping through multi-layered sky highways, and a blend of blue, purple, and neon pink lighting. Add subtle atmospheric fog, reflections on the glass, and dynamic motion from the flying vehicles. The tone should be immersive, high-tech, and visually rich with cyberpunk elements. Realistic lighting, smooth camera movement, and a dramatic reveal of the cityscape."
 # Output:
 <img width="1912" height="1011" alt="image" src="https://github.com/user-attachments/assets/8083a143-832a-49ca-a2f8-08e543aead96" />
 
