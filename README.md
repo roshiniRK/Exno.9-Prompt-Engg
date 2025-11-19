@@ -1,8 +1,9 @@
 # Exno.9-To explore and understand the various prompting techniques used for generating videos through AI models. 
 
 # Date: 
-# Register no.:
-# Aim: To perform the Exploration of Prompting Techniques for Video Generation
+# Register no.: 212222230123
+# Aim: 
+To perform the Exploration of Prompting Techniques for Video Generation
 # Algorithm: Explore how various prompting techniques can be used to generate and manipulate video content (e.g., animations, visual effects, video summaries) using AI models. Procedure:
 Familiarize Yourself with Video Generation Models:
 Begin by exploring AI tools capable of video generation from text prompts. Popular models for video generation include:
@@ -30,9 +31,15 @@ Generate Multiple Versions:
 Generate multiple versions of the same prompt with slight variations to compare how the video output differs based on the phrasing of the prompt.
 Save and Compare Outputs:
 Save different versions of the videos and compare the results to understand how different prompts produce varying styles, sequences, and video qualities.
+# Prompt:
+"Create a 5-second cinematic video of a man waking up in a futuristic cyberpunk-inspired city. The scene begins with the man slowly opening his eyes in a minimalistic, neon-lit bedroom. He gets up and walks toward a massive floor-to-ceiling window. As he reaches the window, reveal a sprawling futuristic megacity with towering skyscrapers, glowing holograms, flying cars zipping through multi-layered sky highways, and a blend of blue, purple, and neon pink lighting. Add subtle atmospheric fog, reflections on the glass, and dynamic motion from the flying vehicles. The tone should be immersive, high-tech, and visually rich with cyberpunk elements. Realistic lighting, smooth camera movement, and a dramatic reveal of the cityscape."
+# Output:
+<img width="1912" height="1011" alt="image" src="https://github.com/user-attachments/assets/6170cda1-30fa-4ae9-918f-73e619c8e53d" />
+
+# Result: 
+The Prompt of the above task executed successfully
 
 
-# Result: The Prompt of the above task executed successfully
 
 
 
@@ -40,7 +47,4 @@ Save different versions of the videos and compare the results to understand how 
 
 
 
-
-
-# Result:
 
